@@ -1,0 +1,2 @@
+[ERROR] 2021-07-28 14:08:45.042 captchaController.go:21 gomail: could not send email 1: gomail: invalid message,
+"From" field is absent

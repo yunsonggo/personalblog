@@ -1,0 +1,60 @@
+[INFO] [GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[INFO] [GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[INFO] [GIN-debug] GET    /api/static/*filepath     --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[INFO] [GIN-debug] HEAD   /api/static/*filepath     --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[INFO] [GIN-debug] POST   /api/captcha/email        --> 2021/yunsongcailu/yunsong_server/web/web_controller.PostEmailCaptcha (5 handlers)
+[INFO] [GIN-debug] POST   /api/auth/ping            --> 2021/yunsongcailu/yunsong_server/web/web_controller.AuthPingController (6 handlers)
+[INFO] [GIN-debug] GET    /manager/ping             --> 2021/yunsongcailu/yunsong_server/backend/backend_controller.Ping (5 handlers)
+[INFO] [GIN-debug] POST   /manager/auth/ping        --> 2021/yunsongcailu/yunsong_server/backend/backend_controller.AuthPingController (6 handlers)
+[INFO] [GIN-debug] Listening and serving HTTP on 0.0.0.0:8090
+[INFO] [GIN] 2021/07/28 - 13:46:35 | 200 |          1m7s |   192.168.1.102 | POST     "/api/captcha/email"
+[INFO] [GIN] 2021/07/28 - 13:48:26 | 200 |         1m16s |   192.168.1.102 | POST     "/api/captcha/email"
+[INFO] [GIN] 2021/07/28 - 13:49:59 | 200 |          1m5s |   192.168.1.102 | POST     "/api/captcha/email"
+[INFO] [GIN] 2021/07/28 - 13:50:03 | 200 |          1m5s |   192.168.1.102 | POST     "/api/captcha/email"
+[INFO] [GIN] 2021/07/28 - 13:50:07 | 200 |          1m5s |   192.168.1.102 | POST     "/api/captcha/email"
+[INFO] [GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[INFO] [GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[INFO] [GIN-debug] GET    /api/static/*filepath     --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[INFO] [GIN-debug] HEAD   /api/static/*filepath     --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[INFO] [GIN-debug] POST   /api/captcha/email        --> 2021/yunsongcailu/yunsong_server/web/web_controller.PostEmailCaptcha (5 handlers)
+[INFO] [GIN-debug] POST   /api/auth/ping            --> 2021/yunsongcailu/yunsong_server/web/web_controller.AuthPingController (6 handlers)
+[INFO] [GIN-debug] GET    /manager/ping             --> 2021/yunsongcailu/yunsong_server/backend/backend_controller.Ping (5 handlers)
+[INFO] [GIN-debug] POST   /manager/auth/ping        --> 2021/yunsongcailu/yunsong_server/backend/backend_controller.AuthPingController (6 handlers)
+[INFO] [GIN-debug] Listening and serving HTTP on 0.0.0.0:8090
+[INFO] [GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[INFO] [GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[INFO] [GIN-debug] GET    /api/static/*filepath     --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[INFO] [GIN-debug] HEAD   /api/static/*filepath     --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[INFO] [GIN-debug] POST   /api/captcha/email        --> 2021/yunsongcailu/yunsong_server/web/web_controller.PostEmailCaptcha (5 handlers)
+[INFO] [GIN-debug] POST   /api/auth/ping            --> 2021/yunsongcailu/yunsong_server/web/web_controller.AuthPingController (6 handlers)
+[INFO] [GIN-debug] GET    /manager/ping             --> 2021/yunsongcailu/yunsong_server/backend/backend_controller.Ping (5 handlers)
+[INFO] [GIN-debug] POST   /manager/auth/ping        --> 2021/yunsongcailu/yunsong_server/backend/backend_controller.AuthPingController (6 handlers)
+[INFO] [GIN-debug] Listening and serving HTTP on 0.0.0.0:8090
+[INFO] [GIN] 2021/07/28 - 14:04:22 | 200 |         1m10s |   192.168.1.102 | POST     "/api/captcha/email"
+[INFO] [GIN] 2021/07/28 - 14:04:51 | 200 |          1m8s |   192.168.1.102 | POST     "/api/captcha/email"
+[INFO] [GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[INFO] [GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[INFO] [GIN-debug] GET    /api/static/*filepath     --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[INFO] [GIN-debug] HEAD   /api/static/*filepath     --> github.com/gin-gonic/gin.(*RouterGroup).createStaticHandler.func1 (3 handlers)
+[INFO] [GIN-debug] POST   /api/captcha/email        --> 2021/yunsongcailu/yunsong_server/web/web_controller.PostEmailCaptcha (5 handlers)
+[INFO] [GIN-debug] POST   /api/auth/ping            --> 2021/yunsongcailu/yunsong_server/web/web_controller.AuthPingController (6 handlers)
+[INFO] [GIN-debug] GET    /manager/ping             --> 2021/yunsongcailu/yunsong_server/backend/backend_controller.Ping (5 handlers)
+[INFO] [GIN-debug] POST   /manager/auth/ping        --> 2021/yunsongcailu/yunsong_server/backend/backend_controller.AuthPingController (6 handlers)
+[INFO] [GIN-debug] Listening and serving HTTP on 0.0.0.0:8090
+[INFO] [GIN] 2021/07/28 - 14:08:45 | 200 |          1m9s |   192.168.1.102 | POST     "/api/captcha/email"
